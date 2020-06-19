@@ -7,7 +7,7 @@ A new Flutter application.
 
 ## Prints
 
-<p float="left">
+<p float="left" align="center">
   <img src=https://i.ibb.co/5K7v0Gn/img1.jpg width="40%" />
   <img src=https://i.ibb.co/MD3s48t/img2.jpg width="40%" /> 
 </p>
