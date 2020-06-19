@@ -9,6 +9,6 @@ A new Flutter application.
 
 <p float="left" align="center">
   <img src=https://i.ibb.co/5K7v0Gn/img1.jpg width="40%" />
-  <img src=https://i.ibb.co/MD3s48t/img2.jpg width="40%" /> 
+  <img src=https://i.ibb.co/ggKWVsy/Whats-App-Image-2020-06-19-at-15-17-31.jpg width="40%" /> 
 </p>
 
