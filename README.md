@@ -6,7 +6,4 @@ A new Flutter application.
   Desenvolvido para facilitar a contagem de economias e fechamento de caixa. Consiste na soma dos valores escolhidos.
 
 ## Prints
-<p float="left">
-  <img src="img/img1.jpeg" width="100" />
-  <img src="img/img2.jpeg" width="100" />
-</p>
+![alt-text-1](https://i.ibb.co/5K7v0Gn/img1.jpg "title-1") ![alt-text-2](https://i.ibb.co/MD3s48t/img2.jpg "title-2")
