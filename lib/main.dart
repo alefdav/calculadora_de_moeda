@@ -1,7 +1,7 @@
-import 'dart:ffi';
-import 'dart:ui';
 
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/painting.dart';
 import 'package:flutter/services.dart';
 
 void main() => runApp(MyApp());
@@ -51,10 +51,11 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Container(
-              width: 160,
+              width: 140,
               child:
               TextField(
                 readOnly: true,
+                textAlign: TextAlign.center,
                 controller: fivecontroller,
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
@@ -90,10 +91,11 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 160,
+              width: 140,
               child:
               TextField(
                 readOnly: true,
+                textAlign: TextAlign.center,
                 controller: tencontroller,
                 decoration: InputDecoration(
                   prefixIcon: IconButton(
@@ -128,10 +130,11 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 160,
+              width: 140,
               child:
               TextField(
                 readOnly: true,
+                textAlign: TextAlign.center,
                 controller: twentyfivecontroller,
                 decoration: InputDecoration(
                     prefixIcon: IconButton(
@@ -166,10 +169,11 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 160,
+              width: 140,
               child:
               TextField(
                 readOnly: true,
+                textAlign: TextAlign.center,
                 controller: fiftycontroller,
                 decoration: InputDecoration(
                     prefixIcon: IconButton(
@@ -204,10 +208,11 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
         Container(
-          width: 160,
+          width: 140,
           child:
             TextField(
               readOnly: true,
+              textAlign: TextAlign.center,
               controller: onecontroller,
               decoration: InputDecoration(
                   prefixIcon: IconButton(
