@@ -1,8 +1,4 @@
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
-import 'package:flutter/services.dart';
 
 void main() => runApp(MyApp());
 
@@ -91,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 140,
+              width: 150,
               child:
               TextField(
                 readOnly: true,
@@ -130,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 140,
+              width: 150,
               child:
               TextField(
                 readOnly: true,
@@ -169,7 +165,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
             Container(
-              width: 140,
+              width: 150,
               child:
               TextField(
                 readOnly: true,
@@ -208,7 +204,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 5),
         Container(
-          width: 140,
+          width: 150,
           child:
             TextField(
               readOnly: true,
